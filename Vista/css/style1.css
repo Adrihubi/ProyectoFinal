@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('Fondo.jpg'); /* Ruta de la imagen */
+    background-size: cover; /* Para que la imagen cubra todo el espacio del contenedor */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    border-radius: 10px; /* Esto es opcional, pero puede hacer que los bordes se vean más suaves */
+}
+
+.navbar-bg {
+    background-image: url('Inicio.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.navbar-nav .nav-link {
+    color: black; /* Cambia al color que prefieras */
+}
+
+.navbar-nav .nav-link:hover {
+    color: red; /* Cambia al color que prefieras para cuando el enlace se active o pase el cursor */
+}
+
+.times {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.medio {
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 28px;
+    color: black !important;
+}
+
+.navbar-nav {
+    color: black !important;
+}
+
+.text-success {
+    color: #28a745;
+}
+
+footer {
+    background-color: #6c757d;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+    padding: 5px;
+}
+
+img {
+    border-radius: 3px;
+    width: 30em;
+}
