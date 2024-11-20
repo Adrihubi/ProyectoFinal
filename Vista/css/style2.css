@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('Fondo.jpg'); /* Ruta de la imagen */
+    background-image: url(../img/Fondo.jpg); /* Ruta de la imagen */
     background-size: cover; /* Para que la imagen cubra todo el espacio del contenedor */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -8,7 +8,7 @@ body {
 }
 
 .navbar-bg {
-    background-image: url('Inicio.jpg');
+    background-image: url(../img/Inicio.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -70,4 +70,15 @@ footer p {
 .paq-tabla th, .paq-tabla td {
     padding: 8px; /* Espaciado interno */
     text-align: left; /* Alineación del texto */
+}
+
+.boton {
+    background-color: pink; /* Color de fondo */
+    color: purple; /* Color del texto */
+    padding: 5px 20px; /* Espaciado interno */
+    text-align: center;
+    text-decoration: none; /* Quita el subrayado */
+    display: inline-block; /* Muestra el elemento como un bloque en línea */
+    font-size: 16px;
+    border-radius: 4px; /* Bordes redondeados */
 }

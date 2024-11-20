@@ -1,3 +1,3 @@
 <?php
-define("urlsite","http://localhost/Proyecto/Vista/");
+define("urlsite","http://localhost/Proyecto/index.php");
 ?>

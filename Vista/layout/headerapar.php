@@ -8,7 +8,7 @@
     <!-- Enlace a Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <!-- Estilos personalizados -->
-    <link rel="stylesheet" href="vista/css/style.css">
+    <link rel="stylesheet" href="vista/css/style11.css">
     <link rel="icon" href="vista/img/Icono.png" type="image/png">
 </head>
 <body>
